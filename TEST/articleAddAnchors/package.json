@@ -1,0 +1,9 @@
+{
+  "name": "article-anchors",
+  "version": "1.0.0",
+  "description": "Script to add anchors to HTML articles",
+  "main": "addAnchors.js",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+} 
